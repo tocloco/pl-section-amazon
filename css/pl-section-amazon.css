@@ -1,0 +1,11 @@
+.amazon-container {
+	margin-bottom: 20px;
+}
+
+.amazon-container .highlightContainer{ position: relative; }
+
+.amazon-container .highlightContainer .itemImageHolder { width: 50% !important; float: left; padding: 5%;}
+.amazon-container .highlightContainer .highlights {padding-top: 5%;}
+.amazon-container .description {font-size: 85%; clear: both;}
+
+.highlight h4 {font-size: 90%;}
